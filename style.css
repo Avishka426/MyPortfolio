@@ -353,15 +353,15 @@ footer {
     justify-content: center;
   }
   .grid-item-2 {
-    order: 1;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    order: 1 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
   }
   .team_img_wrapper {
-    width: 350px;
-    height: 350px;
+    width: 250px !important;
+    height: 250px !important;
   }
   .featured_info span {
     font-size: 19px;
